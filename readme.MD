@@ -11,7 +11,7 @@ It converts values between Celsius, Fahrenheit, and Kelvin using form input.
 
 ## How to run
 
-Live demo:
+Live demo: https://oliwier-dev.github.io/temperature-converter/
 
 1. Enter a numeric value.
 2. Choose the source unit and target unit.
@@ -22,3 +22,5 @@ Live demo:
 - `index.html` - app structure and styling
 - `script.js` - conversion logic and form handling
 - `LICENSE` - license details
+
+https://roadmap.sh/projects/temperature-converter
